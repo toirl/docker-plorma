@@ -1,4 +1,4 @@
-FROM toirl/ringo:latest
+FROM toirl/docker-ringo:latest
 
 # Argh! We need testing packages :(
 RUN pip install --pre plorma webtest mock
