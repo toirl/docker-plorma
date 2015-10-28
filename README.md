@@ -1,4 +1,4 @@
-# Plorma Demo as docker immage
+# Plorma
 Plorma is a webapplication to plan, organise and manage tasks. It provides
 tools like Burndown Diagrams or Kanban Boards which are often used in agile
 proccess like SCRUM.
@@ -11,3 +11,6 @@ The documentation is available on [Plorma on Readthedocs](http://plorma.readthed
 
 ## Source of Plorma
 The sourcecode is available on [Plorma on Github](https://github.org/toirl/plorma)
+
+## Docker Hub
+https://hub.docker.com/r/toirl/plorma-demo
