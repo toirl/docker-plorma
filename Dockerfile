@@ -1,7 +1,7 @@
 FROM toirl/docker-ringo:latest
 
 # Argh! We need testing packages :(
-RUN pip install plorma webtest mock
+RUN pip install --pre plorma webtest mock
 # Add specific database configuration
 ADD app.ini .
 ADD setup_database.sh .
