@@ -14,3 +14,7 @@ The sourcecode is available on [Plorma on Github](https://github.org/toirl/plorm
 
 ## Docker Hub
 https://hub.docker.com/r/toirl/plorma-demo
+
+Use 
+```docker run -d -P -t toirl/docker-plorma```
+To start the container. The Server will be available on http://localhost:6543
